@@ -2,7 +2,6 @@
 
 This repository presents an interactive **Tableau Dashboard** analyzing customer reviews for **British Airways** between **March 2016 and October 2023**. The data visualizations offer deep insights into service ratings across various dimensions, seat types, aircraft, and customer segments.
 
-![British Airways Dashboard](Dashboard 1.png)
 <IMAGE src="Dashboard 1.png" width="1200" />
 
 ---
@@ -68,5 +67,3 @@ To embed this dashboard elsewhere:
 📬 Contact
 For feedback or collaboration inquiries, feel free to reach out via [krishvenigalla06@email.com] or open an issue in the repository.
 
-📜 License
-This project is open-source and available under the MIT License.
